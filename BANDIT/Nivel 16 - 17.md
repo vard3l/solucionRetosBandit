@@ -14,6 +14,7 @@ Contraseña obtenida en el [[Nivel 15 -16]]
 
 ## Solución
 nmap localhost es para inicializar el Nmap
+VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 ``` bash
 bandit16@bandit:~$ nmap localhost -p 31000-32000
 
@@ -68,4 +69,7 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 ## Notas adicionales
 Se proporcina la contraseña de este nivel para obtener la llave ssh de arriba.
 Se debe cambiar los permisos a 600.
+
+nmap -p limiteInferior - limiteSuperior 
+es para escanear puertos en un rango dado
 ## Referencias

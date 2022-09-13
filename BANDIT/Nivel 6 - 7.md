@@ -13,6 +13,8 @@ Servidor **bandit.labs.overthewire.org**
 Puerto de acceso **2220**
 Contraseña:  **DXjZPULLxYr17uwoI01bNLQbtFemEgo7**
 
+Datos de acceso aobtenidos en el [[Nivel 5 - 6]]
+
 ## Solución
 find -type f -size 33c -user bandit7
 cd ./var/lib/dpkg/info/
@@ -21,4 +23,6 @@ cat bandit7.password
 
 ## Notas adicionales
 Antes de comenzar a buscar en el servidor con el comandi **find** debes moverte al directorio raiz para poder abarcar más espacio al momento de buscar
+
+Solución con el comando find tambíen utilizada en el [[Nivel 5 - 6]].
 ## Referencias

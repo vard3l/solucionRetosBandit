@@ -20,7 +20,7 @@ bandit22@bandit:~$ cat /usr/bin/cronjob_bandit23.sh                             
 
 Contraseña ==**QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**==
 
-![[Pasted image 20220906082129.png]]
+![[bandit_22.png]]
 ## Notas adicionales
 
 ## Referencias

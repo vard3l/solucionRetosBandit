@@ -13,6 +13,8 @@ Servidor **bandit.labs.overthewire.org**
 Puerto de acceso **2220**
 Contraseña: **koReBOKuIDDepwhWk7jZC0RTdopnAYKh**
 
+Datos de acceso aobtenidos en el [[Nivel 4 - 5]]
+
 ## Solución
 bandit5@bandit:~/inhere$ bandit5@bandit:~/inhere$ find -type f -size 1033c
 ./maybehere07/.file2
@@ -21,4 +23,5 @@ bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
 **DXjZPULLxYr17uwoI01bNLQbtFemEgo7**
 ## Notas adicionales
 Al comando find se le pueden dar distintas opciones para poder buscar archivos con caracteristicas particulares, en este caso fue util conocer el peso en bytes de archivo.
+
 ## Referencias

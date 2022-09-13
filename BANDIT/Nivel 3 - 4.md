@@ -9,6 +9,8 @@ Servidor **bandit.labs.overthewire.org**
 Puerto de acceso **2220**
 Contraseña: **UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK**
 
+Datos de acceso obtenidos en el [[Nivel 2 - 3]]
+
 ## Solución
 bandit3@bandit:~$ cd inhere
 bandit3@bandit:~/inhere$ ls

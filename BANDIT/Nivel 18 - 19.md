@@ -7,6 +7,7 @@ usuario: **bandit18**
 Servidor **bandit.labs.overthewire.org**
 Puerto de acceso **2220**
 Contraseña ==**hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg**==
+Contraseña encontrada en el [[Nivel 17 - 18]].
 ## Solución
 ```bash
 

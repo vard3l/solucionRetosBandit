@@ -9,10 +9,13 @@ Servidor **bandit.labs.overthewire.org**
 Puerto de acceso **2220**
 Contraseña: **UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR**
 
+Datos de acceso aobtenidos en el [[Nivel 8 - 9]]
+
 ## Solución
 strings data.txt
 **truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk**
 
 ## Notas adicionales
 El comando strings da como salida solo los caracteres que pueden ser impresos en pantalla
+
 ## Referencias

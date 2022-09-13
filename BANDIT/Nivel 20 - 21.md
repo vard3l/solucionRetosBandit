@@ -10,6 +10,7 @@ usuario: **bandit20**
 Servidor **bandit.labs.overthewire.org**
 Puerto de acceso **2220**
 Contraseña: ==**VxCazJaVykI6W36BkBU0mJTCM8rR95XT**==
+Contraseña encontrada en el [[Nivel 19 - 20]].
 ## Solución
 ```bash
 bandit20@bandit:~$ nc -lvp 3232 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT &             [1] 635602                                                                         bandit20@bandit:~$ Listening on 0.0.0.0 3232                                                                                                                          bandit20@bandit:~$ ./suconnect 3232                                                Connection received on localhost 48206                                             Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT                                             Password matches, sending next password                                            NvEJF7oVjkddltPSrdKEFOllh9V1IBcq                                                   [1]+  Done                    nc -lvp 3232 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
